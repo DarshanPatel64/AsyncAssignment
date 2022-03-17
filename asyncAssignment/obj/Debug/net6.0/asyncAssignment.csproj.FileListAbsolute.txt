@@ -1,0 +1,15 @@
+C:\Users\DELL\c#demos\asyncAssignment\bin\Debug\net6.0\asyncAssignment.exe
+C:\Users\DELL\c#demos\asyncAssignment\bin\Debug\net6.0\asyncAssignment.deps.json
+C:\Users\DELL\c#demos\asyncAssignment\bin\Debug\net6.0\asyncAssignment.runtimeconfig.json
+C:\Users\DELL\c#demos\asyncAssignment\bin\Debug\net6.0\asyncAssignment.dll
+C:\Users\DELL\c#demos\asyncAssignment\bin\Debug\net6.0\asyncAssignment.pdb
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\asyncAssignment.csproj.AssemblyReference.cache
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\asyncAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\asyncAssignment.AssemblyInfoInputs.cache
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\asyncAssignment.AssemblyInfo.cs
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\asyncAssignment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\asyncAssignment.dll
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\refint\asyncAssignment.dll
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\asyncAssignment.pdb
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\asyncAssignment.genruntimeconfig.cache
+C:\Users\DELL\c#demos\asyncAssignment\obj\Debug\net6.0\ref\asyncAssignment.dll
